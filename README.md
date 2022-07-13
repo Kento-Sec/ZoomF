@@ -1,5 +1,6 @@
 # ZoomF
 
+喜欢的小伙伴点个star多多支持
 
 使用之前需要在配置文件添加zoomeye的api-key
 
