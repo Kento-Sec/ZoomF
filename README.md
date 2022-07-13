@@ -13,3 +13,7 @@
 
 
 <img width="771" alt="image" src="https://user-images.githubusercontent.com/53268974/178652876-54d9b02d-0c09-4f53-9f07-ee2cdcc50a9e.png">
+
+
+免责声明：
+本程序仅用于学习，下载后请勿用于商业用途
